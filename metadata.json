@@ -1,0 +1,6 @@
+{
+  "name": "GY Marketing Agency",
+  "description": "GY Marketing Agency offers Meta Ads, Google Ads, website development, app development, SEO and social media growth solutions for modern businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
